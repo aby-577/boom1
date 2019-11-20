@@ -67,3 +67,41 @@ git pull //拉取并合并
 
 # bootstrap 前端框架
 ## 官网 bootcss.com
+
+
+
+# i love you 3000遍
+
+# git push -u origin master  //-u 将origin设置为默认的远程仓库，下次再push的时候就可以不用加 origin 了
+
+# http状态码
+- 200  ok
+- 404 没找到
+- 403 没权限
+- 500 服务器错误
+- 301 永久重定向
+- 302 临时重定向
+
+
+### 扩展：
+> 标题、列表、代码段、引用、粗体、斜体、图片、链接
+#标题
+##二级标题
+-列表
+-列表
+```
+代码
+```
+**粗体**
+*斜体*
+
+![图片](http://img4.imgtn.bdimg.com/it/u=3209370120,2008812818&fm=26&gp=0.jpg "图片")
+[链接](https://note.youdao.com/ynoteshare1/index.html?id=82594d8e6b22d52e8d3b29dc64b613e0&type=note "链接")
+
+
+
+### markdown预览快捷键绑定
+```
+//首选项 -> 按键绑定-用户
+{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+```
